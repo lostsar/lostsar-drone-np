@@ -1,4 +1,5 @@
-# 有關 LostSAR專案
+# 有關 lostsar-drone-np專案 
+# LostSAR-drone-Number of people
 ## 請參考各目錄
 ## lostsar-drone-np
 ## 授權CC-BY-NC 3.0
